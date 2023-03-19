@@ -1,7 +1,7 @@
 {
-  "name": "grant-dude-march2023",
-  "version": "1.0.0",
-  "description": "Your Figma Plugin",
+  "name": "ds-video-docs-figma-plugin",
+  "version": "0.0.1",
+  "description": "A Figma Plugin",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "@figma/plugin-typings": "^1.62.0",
-    "typescript": "*"
+    "@figma/plugin-typings": "^1.62.0"
   }
 }
