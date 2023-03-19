@@ -1,0 +1,22 @@
+{
+  "name": "grant-dude-march2023",
+  "id": "1218329881913609175",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "relaunchButtons": [
+    {
+      "command": "play",
+      "name": "Watch Component Intro"
+    },
+    {
+      "command": "attach",
+      "name": "Attach video"
+    }
+  ]
+}
