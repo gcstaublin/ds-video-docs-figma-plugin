@@ -1,7 +1,7 @@
 "use strict";
 // This shows the HTML page in "ui.html".
-figma.showUI(__html__);
-figma.root.setRelaunchData({ attach: 'more cool shit' });
+// figma.showUI(__html__);
+figma.root.setRelaunchData({ attach: 'yo' });
 // Grabs the frame/component a user has selected in Figma when launching the plugin
 let node = figma.currentPage.selection && figma.currentPage.selection[0];
 // If a user launches the plugin without having anything selected

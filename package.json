@@ -1,7 +1,7 @@
 {
-  "name": "ds-video-docs-figma-plugin",
-  "version": "0.0.1",
-  "description": "A Figma Plugin",
+  "name": "ds-video-docsfigma-plugin",
+  "version": "1.0.0",
+  "description": "Your Figma Plugin",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "@figma/plugin-typings": "^1.62.0"
+    "@figma/plugin-typings": "*",
+    "typescript": "*"
   }
 }

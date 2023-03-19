@@ -1,6 +1,6 @@
 // This shows the HTML page in "ui.html".
-figma.showUI(__html__);
-figma.root.setRelaunchData({ attach: 'more cool shit' })
+// figma.showUI(__html__);
+figma.root.setRelaunchData({ attach: 'yo' })
 
 
 
